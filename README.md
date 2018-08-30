@@ -1,5 +1,7 @@
 # News Summary challenge
 
+## Demo
+![Demo](/images/headlines-demo.png)
 
 ## Challenge
 
